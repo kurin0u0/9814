@@ -1,0 +1,10 @@
+Metric,Unsafe Baseline,Safe RL System (θ=0)
+Total Safety Violations,97.0,0.0
+False Negative Rate (Shield),0.0,0.0
+Violation Rate (No Shield),0.97,
+Avg Return (Last 100),-10.075,8.183000000000003
+Success Rate (%) (Last 100),3.0,94.1
+Avg Episode Length (Last 100),6.75,
+Total Interventions,0.0,9409.0
+Interventions (Last 100),0.0,2.0
+Avg Interventions/Episode,0.0,9.409
